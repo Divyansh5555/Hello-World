@@ -1,1 +1,1 @@
-print("Hello, Corals")
+print("Hello , This is a Coral Segmentation Project")
